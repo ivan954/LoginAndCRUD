@@ -1,9 +1,17 @@
-create .env file and add:
+to run the app
+install packaages in root and client:
+1: npm i
+2: cd frontend
+3: npm i
 
-NODE_ENV = development
+4: create .env file in root
+and add:
+
+NODE_ENV = 'development'
 PORT = 5000
 
-create .env file in frontend and add:
+5: create .env file in frontend 
+and add:
 REACT_APP_PORT = 5000
 
 users are in backend/data/users.js
