@@ -7,14 +7,14 @@ cd frontend
 npm install
 ```
 
-##4: create .env file in root
+create .env file in root
 and add:
 ```
 NODE_ENV = development
 PORT = 5000
 ```
 
-##5: create .env file in frontend 
+create .env file in frontend 
 and add:
 ```
 REACT_APP_PORT = 5000
